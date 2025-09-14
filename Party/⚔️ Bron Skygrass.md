@@ -1,6 +1,7 @@
 ---
 aliases:
   - ⚔️ Bron
+  - Bron
 ---
 
 class: [Fighter](https://roll20.net/compendium/dnd5e/Fighter#content) - [Champion](https://dnd5e.wikidot.com/fighter:champion) <br/>
@@ -14,4 +15,4 @@ Background: [Archaeologist](https://dnd5e.wikidot.com/background:archaeologist)<
 	* [[Spark jump]] was learned after touching a rift
 ## Image:
 
-![image](Bron.png)
+![image](../Bron.png)
