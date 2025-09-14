@@ -1,3 +1,9 @@
+---
+aliases:
+  - Vyria
+  - Ringmaster
+  - Bat Demon
+---
 + tall, bat-looking demon who runs the show.
 +  says that the [[Ripper]] wasn't her fault.
 	* the city killed an innocent man
