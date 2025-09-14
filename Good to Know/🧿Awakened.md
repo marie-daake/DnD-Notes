@@ -1,3 +1,7 @@
+---
+aliases:
+  - Awakened
+---
 
 
 a previously non-magical being, often a beast/animal, given the ability to talk, walk upright, and use magic.
