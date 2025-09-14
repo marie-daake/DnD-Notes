@@ -12,3 +12,5 @@ notes:
 	* dispel magic darts
 * Has the [[Spark]] after being teleported by a plains-walker
 	* [[Spark jump]] was learned after touching a rift
+
+![image](party/bron.png)
