@@ -2,7 +2,7 @@
 aliases:
   - Cintia
 ---
-# :RaDaggers: Luna
+# 🗝️Luna
 
 class: Rouge
 species: 
