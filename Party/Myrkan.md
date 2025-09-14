@@ -1,3 +1,7 @@
+---
+aliases:
+  - Myrkan
+---
 class: 
 species: Dragonborn
 notes:
