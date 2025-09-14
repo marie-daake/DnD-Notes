@@ -1,6 +1,6 @@
 ---
 ---
-# :RaDervishSwords: Vergil
+# 🛡️ Vergil
 class: Fighter / Barbarian
 species: Eladin
 notes:
