@@ -1,5 +1,7 @@
 ---
 ---
-class: rogue
-species: Air Genasi
-notes:
+# :RaCloakAndDagger: Dante
+
+class: rogue <br/>
+species: Air Genasi <br/>
+notes: <br/>
