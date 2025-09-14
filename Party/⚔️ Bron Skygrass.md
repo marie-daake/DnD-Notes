@@ -15,4 +15,4 @@ Background: [Archaeologist](https://dnd5e.wikidot.com/background:archaeologist)<
 	* [[Spark jump]] was learned after touching a rift
 ## Image:
 
-![image](../Bron.png)
+![image](Bron.png)
