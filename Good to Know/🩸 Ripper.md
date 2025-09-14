@@ -1,3 +1,7 @@
+---
+aliases:
+  - Ripper
+---
 
 + made of magic
 	* nothing left after death
