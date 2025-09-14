@@ -3,7 +3,7 @@
 ## August 30, 2025 - 19.00 -> 20.00 - [[killing the riper(s)]]
 ### Attendees
 
-[[Bron Skygrass|Bron]], Dante, Vergil, [[Vyracoria Ildil|Vyra]]
+[[Bron Skygrass|Bron]], [[Dante]], [[Vergil]], [[Vyracoria Ildil|Vyra]]
 
 ### Notes from the session
 
