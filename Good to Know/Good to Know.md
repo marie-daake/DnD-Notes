@@ -1,11 +1,11 @@
 # 📖 Good to Know
 
-- [[Awakened]]
-- [[Spark]]
-- [[Spark jump]]
-- [[the weave]]
-- [[Reward]]s we've gotten
+- [[🧿Awakened]]
+- [[✧ Spark]]
+- [[✨Spark Jump]]
+- [[☆ The Weave]]
+- [[💰 Reward]]s we've gotten
 ## Enemies
-- [[Awakened otter]]
-- [[Ringmaster]]
-- [[Ripper]]
+- [[🦦 Awakened Otter]]
+- [[🦇 Ringmaster]]
+- [[🩸 Ripper]]
