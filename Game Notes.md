@@ -1,5 +1,6 @@
 ---
 ---
+# 📒 Game Notes
 ## August 30, 2025 - 19.00 -> 20.00 - [[killing the riper(s)]]
 ### Attendees
 
