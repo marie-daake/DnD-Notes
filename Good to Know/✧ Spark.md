@@ -1,0 +1,2 @@
+
+a Connection to the other plains, gives potential to become a plains-walker
