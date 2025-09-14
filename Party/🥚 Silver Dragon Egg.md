@@ -5,4 +5,4 @@ aliases:
   - Silver dragon egg
 ---
 
-living dragon egg, received after [[One-shot]]
+living dragon egg, received after [One-shot](#One-Shot)
