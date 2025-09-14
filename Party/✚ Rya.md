@@ -2,10 +2,8 @@
 aliases:
   - Rya
 ---
-
-
-class: Cleric
-species: Dragonborn
-notes:
+class: Cleric  <br/>
+species: Dragonborn <br/>
+## notes:
 
 * specialty in lightning
