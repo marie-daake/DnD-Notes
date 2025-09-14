@@ -43,7 +43,7 @@
 		* requires beasts to 'stick'.
 	* Wants to charge (up to) 1gp to 'cure' people of [[tail-rot]].
 		* needs people to test the drug.
-* [[Varon]] Making deals with ringmaster about skyglass
+* [[👨‍💼 Varon]] Making deals with ringmaster about skyglass
 * [[🍃 Vyracoria Ildil|Vyra]] questioned the availability of a medicine price wise
 * [[✚ Rya|Rya]] attacked the [[Awakened otter]]
 * [[Ringmaster]] offered cursed armor to [[⚔️ Bron Skygrass|Bron]], who denied
