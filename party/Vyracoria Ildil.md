@@ -2,7 +2,7 @@
 aliases:
   - Vyra
 ---
-# :RaZigzagLeaf: Vyracoria Ildil
+# 🍃 Vyracoria Ildil
 class: [Druid](https://roll20.net/compendium/dnd5e/Druid#content) [Circle of the moon](https://www.dndbeyond.com/posts/629-druid-101-circle-of-the-moon?srsltid=AfmBOorOyj-eThy-gSs5b6a2i6Rhumu92Fd3HncoBp37T0RrqnFr4DQO)
 species: [Dragonborn](https://roll20.net/compendium/dnd5e/Dragonborn#content)
 ## notes:
