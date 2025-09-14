@@ -3,8 +3,8 @@ aliases:
   - Vergil
 ---
 
-class: Fighter / Barbarian
-species: Eladin
-notes:
+class: Fighter / Barbarian <br/>
+species: Eladin <br/>
+## notes:
 
 * aka puppy
