@@ -1,3 +1,7 @@
+---
+aliases:
+  - Awakened Otter
+---
 
 
 * 34 " / 86 cm
