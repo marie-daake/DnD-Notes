@@ -3,8 +3,6 @@ aliases:
   - Cintia
   - Luna
 ---
-
-
-class: Rouge
-species: 
-notes:
+class: Rouge <br/>
+species:  <br/>
+## notes: 
