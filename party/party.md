@@ -1,4 +1,4 @@
-# party Overview
+#  👤 Party Quick Overview
  - [[Bron Skygrass|Bron]] - Lizardfolk Fighter
  - [[Dante]] - Air Genasi Rogue
  - [[Luna]] - Rogue
