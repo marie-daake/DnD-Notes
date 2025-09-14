@@ -1,6 +1,6 @@
 ---
 ---
-# :FarEye: Oneeye
+# 👁️ Oneeye
 
 Draconic Sorcerer
 Tiefling
