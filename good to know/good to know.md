@@ -1,4 +1,4 @@
-# good to know Overview
+# 📖 Good to Know
 
 - [[Awakened]]
 - [[Spark]]
