@@ -1,7 +1,8 @@
 ---
 ---
 # 📒 Game Notes
-## Aug 23, 2025 - <a id="Jumping Plains">Jumping Plains</a>
+## Aug 23, 2025
+#### Jumping Plains
 ### Attendees
 [[⚔️ Bron Skygrass|Bron]], [[🍃 Vyracoria Ildil|Vyra]], [[✚ Rya|Rya]], [[❓ Myrkan|Myrkan]], 
 
@@ -23,7 +24,8 @@
 + Party had to wait till nightfall.
 	+ started to explore town.
 	+ got first glimpse of [[🩸 Ripper|Ripper]]
-## August 30, 2025 - 19.00 -> 20.00 - <a id="killing the riper(s)">killing the riper(s)</a>
+## August 30, 2025 - 19.00 -> 20.00
+#### killing the riper(s)
 ### Attendees
 
 [[⚔️ Bron Skygrass|Bron]], [[🗡️ Dante|Dante]], [[🛡️ Vergil|Vergil]], [[🍃 Vyracoria Ildil|Vyra]]
@@ -45,7 +47,8 @@
 * refused at gate, went to nearby inn.
 	* got free rooms
 
-## September 6, 2025 19:30 -> 22.00 - <a id="Ringmaster, Otter, and the unnecessary battle.">Ringmaster, Otter, and the unnecessary battle.</a>
+## September 6, 2025 19:30 -> 22.00
+#### Ringmaster, Otter, and the unnecessary battle.
 ### Attendees
 
 [[❓ Myrkan|Myrkan]], [[⚔️ Bron Skygrass|Bron]], [[🗡️ Dante|Dante]], [[🍃 Vyracoria Ildil|Vyra]], [[✚ Rya|Rya]], [[👁️ One eye|Oneeye]]
@@ -76,7 +79,8 @@
 	* 50g/ea to those present
 		* 150g to [[❓ Myrkan|Myrkan]]
 
-## September 13, 2025 -> 20.00 -11:14 PM - <a id="One-Shot">One-shot</a> "dream"
+## September 13, 2025 -> 20.00 -11:14 PM 
+#### One-shot "dream"
 ### Attendees
 
 [[❓ Myrkan|Myrkan]], [[⚔️ Bron Skygrass|Bron]], [[🗡️ Dante|Dante]], [[🍃 Vyracoria Ildil|Vyra]], [[👁️ One eye|Oneeye]],  [[🗝️ Luna|Luna]] 
