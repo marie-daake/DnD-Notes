@@ -1,6 +1,6 @@
 ---
 ---
-# :RaHospitalCross: Rya
+# ✚ Rya
 
 class: Cleric
 species: Dragonborn
