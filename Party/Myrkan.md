@@ -2,8 +2,8 @@
 aliases:
   - Myrkan
 ---
-class: 
-species: Dragonborn
-notes:
+class:  <br/>
+species: Dragonborn <br/>
+## notes: 
 + noble
-+ father named [[Varon]] 
++ father named [[👨‍💼 Varon]] 
