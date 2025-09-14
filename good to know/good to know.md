@@ -1,6 +1,11 @@
 # good to know Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
+
+[[Awakened]]
+[[Spark]]
+[[Spark jump]]
+[[the weave]]
+[[Reward]]s we've gotten
+## Enemies
+[[Awakened otter]]
+[[Ringmaster]]
+[[Ripper]]
