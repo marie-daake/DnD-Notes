@@ -1,5 +1,5 @@
 ---
 ---
-Draconic Sorcere
+Draconic Sorcerer
 Tiefling
 notes:
