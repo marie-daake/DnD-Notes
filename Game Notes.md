@@ -1,18 +1,19 @@
 ---
 ---
 # 📒 Game Notes
+## Aug 23, 2025 - 
 ## August 30, 2025 - 19.00 -> 20.00 - [[killing the riper(s)]]
 ### Attendees
 
-[[Bron Skygrass|Bron]], [[Dante]], [[Vergil]], [[Vyracoria Ildil|Vyra]]
+[[⚔️ Bron Skygrass|Bron]], [[🗡️ Dante|Dante]], [[Vergil]], [[🍃 Vyracoria Ildil|Vyra]]
 
 ### Notes from the session
 
 * [[Rift of magic]] in town
-	* [[Bron Skygrass]] and [[Vyracoria Ildil]] got new spells from the rift
-	* [[Bron Skygrass]] got the spell [[Spark jump]] [[Vyracoria Ildil]] got the Blinding Smite spell
+	* [[⚔️ Bron Skygrass|Bron]] and [[🍃 Vyracoria Ildil|Vyra]] got new spells from the rift
+	* [[⚔️ Bron Skygrass|Bron]] got the spell [[Spark jump]] [[🍃 Vyracoria Ildil|Vyra]] got the Blinding Smite spell
 * fought 2 baddies
-* Had to revive [[Vergil]] and [[Dante]]
+* Had to revive [[🛡️ Vergil|Vergil]] and [[🗡️ Dante|Dante]]
 	* were cut off from _[[the weave]]_ when stabbed
 * [[Ripper]]s were made of magic
 	* nothing left after death
@@ -25,7 +26,7 @@
 ## September 6, 2025 19:30 -> 22.00 - [[Ringmaster, Otter, and the unnecessary battle.]]
 ### Attendees
 
-[[Myrkan]], [[Bron Skygrass]], [[Dante]], [[Vyracoria Ildil]], [[Rya]], [[One eye]]
+[[Myrkan]], [[⚔️ Bron Skygrass|Bron]], [[🗡️ Dante|Dante]], [[🍃 Vyracoria Ildil|Vyra]], [[✚ Rya|Rya]], [[👁️ One eye|Oneeye]]
 
 ### Notes from the session
 
@@ -43,9 +44,9 @@
 	* Wants to charge (up to) 1gp to 'cure' people of [[tail-rot]].
 		* needs people to test the drug.
 * [[Varon]] Making deals with ringmaster about skyglass
-* [[Vyracoria Ildil]] questioned the availability of a medicine price wise
-* [[Rya]] attacked the [[Awakened otter]]
-* [[Ringmaster]] offered cursed armor to [[Bron Skygrass]], who denied
+* [[🍃 Vyracoria Ildil|Vyra]] questioned the availability of a medicine price wise
+* [[✚ Rya|Rya]] attacked the [[Awakened otter]]
+* [[Ringmaster]] offered cursed armor to [[⚔️ Bron Skygrass|Bron]], who denied
 	* answered a lot of questions about the armor
 * [[Ringmaster]] disappeared
 	* lightning hit (inside) after a snark remark followed her leaving
@@ -55,8 +56,8 @@
 ## September 13, 2025 -> 20.00 -11:14 PM - [[One-shot]] "dream"
 ### Attendees
 
-[[Myrkan]], [[Bron Skygrass|Bron]], [[Dante]], [[Vyracoria Ildil|Vyra]], [[One eye]],  [[Luna]] 
-+ [[Rya]] couldn't play due to location, [[Luna]] left early.
+[[Myrkan]], [[⚔️ Bron Skygrass|Bron]], [[🗡️ Dante|Dante]], [[🍃 Vyracoria Ildil|Vyra]], [[👁️ One eye|Oneeye]],  [[🗝️ Luna|Luna]] 
++ [[✚ Rya|Rya]] couldn't play due to location, [[🗝️ Luna|Luna]] left early.
 
 ### Notes from the session
 + Enemies
@@ -91,5 +92,5 @@
 		* 1200 copper pieces
 * [[Reward]]
 	* 50 GP per player upon waking
-	* [[Vyracoria Ildil|Vyra]] got, instead, a [[silver dragon egg]] (living)
+	* [[🍃 Vyracoria Ildil|🍃 Vyra]] got, instead, a [[🥚 Silver Dragon Egg]] (living)
 
