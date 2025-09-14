@@ -1,5 +1,3 @@
----
----
 # 📒 Game Notes
 ## Aug 23, 2025
 #### Jumping Plains
