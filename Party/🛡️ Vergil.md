@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Vergil
 ---
 
 class: Fighter / Barbarian
