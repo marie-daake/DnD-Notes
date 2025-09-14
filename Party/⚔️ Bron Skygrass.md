@@ -8,7 +8,7 @@ class: [Fighter](https://roll20.net/compendium/dnd5e/Fighter#content) - [Champio
 species: [Lizardfolk](https://dnd5e.wikidot.com/lineage:lizardfolk) <br/>
 Background: [Archaeologist](https://dnd5e.wikidot.com/background:archaeologist)<br/>
 ## notes:
-* Married to [[🍃 Vyracoria Ildil]]
+* Married to [[🍃 Vyracoria Ildil|Vyra]]
 * gauntlet
 	* dispel magic darts
 * Has the [[Spark]] after being teleported by a plains-walker
