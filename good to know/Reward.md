@@ -1,3 +1,4 @@
+# 💰 Rewards Earned
  - 50g/ea. to those present
 * 150g to [[Myrkan]]
 * 50 GP per player upon waking
