@@ -11,11 +11,11 @@
 
 * [[Rift of magic]] in town
 	* [[⚔️ Bron Skygrass|Bron]] and [[🍃 Vyracoria Ildil|Vyra]] got new spells from the rift
-	* [[⚔️ Bron Skygrass|Bron]] got the spell [[Spark jump]] [[🍃 Vyracoria Ildil|Vyra]] got the Blinding Smite spell
+	* [[⚔️ Bron Skygrass|Bron]] got the spell [[✨Spark Jump]] [[🍃 Vyracoria Ildil|Vyra]] got the Blinding Smite spell
 * fought 2 baddies
 * Had to revive [[🛡️ Vergil|Vergil]] and [[🗡️ Dante|Dante]]
-	* were cut off from _[[the weave]]_ when stabbed
-* [[Ripper]]s were made of magic
+	* were cut off from _[[☆ The Weave]]_ when stabbed
+* [[🩸 Ripper]]s were made of magic
 	* nothing left after death
 	* serial killer
 * "They killed me. I only came back for revenge"
@@ -33,24 +33,24 @@
 * tried to enter compound again
 	* initially denied
 	* talked our way into the courtyard
-* [[Awakened otter]] in courtyard
+* [[🦦 Awakened Otter]] in courtyard
 * finally allowed in after an hourish
-* [[Ringmaster]] inside
-	* says that the [[Ripper]] wasn't her fault.
+* [[🦇 Ringmaster]] inside
+	* says that the [[🩸 Ripper]] wasn't her fault.
 		* the city killed an innocent man
 		* someone stole one of her experiments
-	* [[Awakened]] experiment doesn't work on humanoids
+	* [[🧿Awakened]] experiment doesn't work on humanoids
 		* requires beasts to 'stick'.
 	* Wants to charge (up to) 1gp to 'cure' people of [[tail-rot]].
 		* needs people to test the drug.
 * [[👨‍💼 Varon]] Making deals with ringmaster about skyglass
 * [[🍃 Vyracoria Ildil|Vyra]] questioned the availability of a medicine price wise
-* [[✚ Rya|Rya]] attacked the [[Awakened otter]]
-* [[Ringmaster]] offered cursed armor to [[⚔️ Bron Skygrass|Bron]], who denied
+* [[✚ Rya|Rya]] attacked the [[🦦 Awakened Otter]]
+* [[🦇 Ringmaster]] offered cursed armor to [[⚔️ Bron Skygrass|Bron]], who denied
 	* answered a lot of questions about the armor
-* [[Ringmaster]] disappeared
+* [[🦇 Ringmaster]] disappeared
 	* lightning hit (inside) after a snark remark followed her leaving
-* [[Reward]]
+* [[💰 Reward]]
 	* 50g/ea to those present
 		* 150g to [[Myrkan]]
 ## September 13, 2025 -> 20.00 -11:14 PM - [[One-shot]] "dream"
@@ -90,7 +90,7 @@
 			* 1x Spell Scroll - Lightning Bolt
 			* 1x Potion of Force Resistance
 		* 1200 copper pieces
-* [[Reward]]
+* [[💰 Reward]]
 	* 50 GP per player upon waking
 	* [[🍃 Vyracoria Ildil|🍃 Vyra]] got, instead, a [[🥚 Silver Dragon Egg]] (living)
 
