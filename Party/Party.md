@@ -1,5 +1,5 @@
 #  👤 Party Quick Overview
- - [[⚔️ Bron Skygrass|⚔️ Bron]] - Lizardfolk Fighter
+ - [[⚔️ Bron Skygrass|⚔️ Bron]] - Lizard folk Fighter
  - [[🗡️ Dante]] - Air Genasi Rogue
  - [[🗝️ Luna]] - Rogue
  - [[Myrkan]] - Dragonborn
