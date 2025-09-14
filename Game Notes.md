@@ -9,6 +9,7 @@
 
 * [[Rift of magic]] in town
 	* [[Bron Skygrass]] and [[Vyracoria Ildil]] got new spells from the rift
+	* [[Bron Skygrass]] got the spell [[Spark jump]] [[Vyracoria Ildil]] got the Blinding Smite spell
 * fought 2 baddies
 * Had to revive [[Vergil]] and [[Dante]]
 	* were cut off from _[[the weave]]_ when stabbed
@@ -40,6 +41,8 @@
 		* requires beasts to 'stick'.
 	* Wants to charge (up to) 1gp to 'cure' people of [[tail-rot]].
 		* needs people to test the drug.
+* [[Varon]] Making deals with ringmaster about skyglass
+* [[Vyracoria Ildil]] questioned the availability of a medicine price wise
 * [[Rya]] attacked the [[Awakened otter]]
 * [[Ringmaster]] offered cursed armor to [[Bron Skygrass]], who denied
 	* answered a lot of questions about the armor
@@ -55,7 +58,15 @@
 + [[Rya]] couldn't play due to location, [[Luna]] left early.
 
 ### Notes from the session
-
++ Enemies
+	+ 1 swarm of insects
+	+ 3 kobolds 
+	+ 1 Swarm of insects 
+	+ 1 Gelatinous cube 
+	+ Shadow 
+	+ 7 Spiders
+	+ 1 Giant Spider
+	+ 12 skeletons
 * Dream sequence:
 	* 12 dragon teeth
 	* Treasure Room:
