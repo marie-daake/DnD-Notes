@@ -2,7 +2,7 @@
 aliases:
   - Bron
 ---
-# ⚔️Bron Skygrass
+# :LiSword: Bron Skygrass
 
 class: [Fighter](https://roll20.net/compendium/dnd5e/Fighter#content) - [Champion](https://dnd5e.wikidot.com/fighter:champion) <br/>
 species: [Lizardfolk](https://dnd5e.wikidot.com/lineage:lizardfolk) <br/>
