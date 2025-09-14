@@ -11,8 +11,8 @@ Background: [Archaeologist](https://dnd5e.wikidot.com/background:archaeologist)<
 * Married to [[🍃 Vyracoria Ildil|Vyra]]
 * gauntlet
 	* dispel magic darts
-* Has the [[Spark]] after being teleported by a plains-walker
-	* [[Spark jump]] was learned after touching a rift
+* Has the [[✧ Spark]] after being teleported by a plains-walker
+	* [[✨Spark Jump]] was learned after touching a rift
 ## Image:
 
 ![image](Bron.png)
