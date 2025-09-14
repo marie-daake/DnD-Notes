@@ -1,3 +1,5 @@
+# 🦦 Awakened Otter
+
 * 34 " / 86 cm
 * high intimidation
 * first test subject of Ringmaster
