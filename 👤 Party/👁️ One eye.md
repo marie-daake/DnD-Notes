@@ -1,7 +1,0 @@
----
----
-
-
-Draconic Sorcerer
-Tiefling
-notes:
