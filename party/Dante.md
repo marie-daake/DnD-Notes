@@ -1,6 +1,6 @@
 ---
 ---
-# :RaCloakAndDagger: Dante
+# 🗡️ Dante
 
 class: rogue <br/>
 species: Air Genasi <br/>
