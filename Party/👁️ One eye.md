@@ -2,8 +2,6 @@
 aliases:
   - Oneeye
 ---
-
-
-Draconic Sorcerer
-Tiefling
-notes:
+Class: Draconic Sorcerer <br/>
+Species: Tiefling <br/>
+## notes: 
