@@ -1,7 +1,7 @@
 ---
 ---
 # 📒 Game Notes
-## Aug 23, 2025 - Jumping Plains
+## Aug 23, 2025 - <a id="Jumping Plains">Jumping Plains</a>
 ### Attendees
 [[⚔️ Bron Skygrass|Bron]], [[🍃 Vyracoria Ildil|Vyra]], [[✚ Rya|Rya]], [[❓ Myrkan|Myrkan]], 
 
@@ -23,10 +23,10 @@
 + Party had to wait till nightfall.
 	+ started to explore town.
 	+ got first glimpse of [[🩸 Ripper|Ripper]]
-## August 30, 2025 - 19.00 -> 20.00 - [[killing the riper(s)]]
+## August 30, 2025 - 19.00 -> 20.00 - <a id="killing the riper(s)">killing the riper(s)</a>
 ### Attendees
 
-[[⚔️ Bron Skygrass|Bron]], [[🗡️ Dante|Dante]], [[Vergil]], [[🍃 Vyracoria Ildil|Vyra]]
+[[⚔️ Bron Skygrass|Bron]], [[🗡️ Dante|Dante]], [[🛡️ Vergil|Vergil]], [[🍃 Vyracoria Ildil|Vyra]]
 
 ### Notes from the session
 
@@ -38,14 +38,14 @@
 	* serial killer
 * "They killed me. I only came back for revenge"
 	* last words before death were that he would get revenge
-* [[Rift of magic]] in town
+* [[🎉Rift of magic]] in town
 	* [[⚔️ Bron Skygrass|Bron]] and [[🍃 Vyracoria Ildil|Vyra]] got new spells from the rift
 		* [[⚔️ Bron Skygrass|Bron]] got the spell [[✨Spark Jump|Spark Jump]] 
 		* [[🍃 Vyracoria Ildil|Vyra]] got the Blinding Smite spell
 * refused at gate, went to nearby inn.
 	* got free rooms
 
-## September 6, 2025 19:30 -> 22.00 - [[Ringmaster, Otter, and the unnecessary battle.]]
+## September 6, 2025 19:30 -> 22.00 - <a id="Ringmaster, Otter, and the unnecessary battle.">Ringmaster, Otter, and the unnecessary battle.</a>
 ### Attendees
 
 [[❓ Myrkan|Myrkan]], [[⚔️ Bron Skygrass|Bron]], [[🗡️ Dante|Dante]], [[🍃 Vyracoria Ildil|Vyra]], [[✚ Rya|Rya]], [[👁️ One eye|Oneeye]]
@@ -76,7 +76,7 @@
 	* 50g/ea to those present
 		* 150g to [[❓ Myrkan|Myrkan]]
 
-## September 13, 2025 -> 20.00 -11:14 PM - [[One-shot]] "dream"
+## September 13, 2025 -> 20.00 -11:14 PM - <a id="One-Shot">One-shot</a> "dream"
 ### Attendees
 
 [[❓ Myrkan|Myrkan]], [[⚔️ Bron Skygrass|Bron]], [[🗡️ Dante|Dante]], [[🍃 Vyracoria Ildil|Vyra]], [[👁️ One eye|Oneeye]],  [[🗝️ Luna|Luna]] 
@@ -115,5 +115,5 @@
 		* 1200 copper pieces
 * [[💰 Reward|Reward]]
 	* 50 GP per player upon waking
-	* [[🍃 Vyracoria Ildil|🍃 Vyra]] got, instead, a [[🥚 Silver Dragon Egg|Silver dragon egg]] (living)
+	* [[🍃 Vyracoria Ildil|Vyra]] got, instead, a [[🥚 Silver Dragon Egg|Silver dragon egg]] (living)
 
