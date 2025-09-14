@@ -13,4 +13,4 @@ notes:
 * Has the [[Spark]] after being teleported by a plains-walker
 	* [[Spark jump]] was learned after touching a rift
 
-![image](http://github.com/marie-daake/DnD-Notes/blob/91a7a52a65dded60f65c7fbabbf7f072a9711ffa/party/Bron.png)
+![image](Bron.png)
