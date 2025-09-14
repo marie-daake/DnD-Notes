@@ -64,7 +64,7 @@
 		* someone stole one of her experiments
 	* [[🧿Awakened|Awakened]] experiment doesn't work on humanoids
 		* requires beasts to 'stick'.
-	* Wants to charge (up to) 1gp to 'cure' people of [[tail-rot]].
+	* Wants to charge (up to) 1gp to 'cure' people of [[🧟 Tail-rot]].
 		* needs people to test the drug.
 * [[👨‍💼 Varon|Varon]] Making deals with ringmaster about skyglass
 * [[🍃 Vyracoria Ildil|Vyra]] questioned the availability of a medicine price wise
