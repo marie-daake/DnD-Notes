@@ -4,5 +4,5 @@ aliases:
   - Luna
 ---
 class: Rouge <br/>
-species:  <br/>
+species: Elf <br/>
 ## notes: 
