@@ -3,12 +3,20 @@
   "contentExclude": [
     "/templates"
   ],
-
-
   "nav": {
     "logo": "logo.jpeg",
     "title": "My Digital Garden",
-[
+    "links": [
+      {
+        "href": "/blog",
+        "name": "Blog"
+      },
+      {
+        "href": "/about",
+        "name": "About"
+      }
+    ],
+    "social": [
       {
         "label": "github",
         "name": "GitHub Profile",
