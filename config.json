@@ -4,8 +4,8 @@
     "/templates"
   ],
   "nav": {
-    "logo": "logo.jpeg",
-    "title": "My Digital Garden",
+    "logo": "DoS.png",
+    "title": "Dimensions of Sentera; Game Notes",
     "links": [
       {
         "href": "/blog",
