@@ -1,10 +1,8 @@
 {
-  "showSidebar": true
-}
-{  "contentExclude": [
-    "/templates"],
-}
-{
+  "showSidebar": true,
+  "contentExclude": [
+    "/templates"
+  ],
   "nav": {
     "logo": "logo.jpeg",
     "title": "My Digital Garden",
@@ -22,7 +20,7 @@
       {
         "label": "github",
         "name": "GitHub Profile",
-        "href": "https://github.com/yourusername"
+        "href": "https://github.com/marie-daake"
       },
       {
         "label": "twitter",
