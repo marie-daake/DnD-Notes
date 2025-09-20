@@ -1,6 +1,4 @@
----
-showSidebar: false
----
+
 # ℹ Misc Info
 ## World info
  - [[✧ Spark]]
