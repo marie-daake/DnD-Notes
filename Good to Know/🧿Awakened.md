@@ -1,6 +1,7 @@
 ---
 aliases:
   - Awakened
+  - Project Magnitude
 ---
 
 
