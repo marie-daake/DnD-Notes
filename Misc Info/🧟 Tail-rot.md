@@ -1,3 +1,7 @@
+---
+aliases:
+  - Tail-rot
+---
 A life-threatening disease (for those who have tails)
 
 ## Important information
