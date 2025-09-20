@@ -1,9 +1,4 @@
-{
-  "showSidebar": true
-}
-{  "contentExclude": [
-    "/templates"],
-}
+
 {
   "showSidebar": true,
   "contentExclude": [
