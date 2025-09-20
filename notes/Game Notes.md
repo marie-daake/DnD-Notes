@@ -230,3 +230,9 @@
 		+ Accepted and was unhappy with [[🍃 Vyracoria Ildil|Vyra]]’s parents
 	+ [[🍃 Vyracoria Ildil|Vyra]] Disowned 
 > 		+ “Come, let us wash the dust of this place from our feet”.
++ Travelled on
+	+ Traveling merchant
+		+ [[✚ Rya|Rya]] wants a rope-dagger
+			+ merchant only has black steel, which has non-conductive properties
+### Dryska Hold
++ arrival
