@@ -1,0 +1,1 @@
+takes a piece of a season (winter this case), and imbue an item with it.
