@@ -43,7 +43,7 @@ Bron grew up with this myth as his guiding star. While other lizardfolk took it 
 
 Vyracoria’s heritage makes this all the more poignant. As a **silver dragonborn**, her lineage traces back to one of the oldest and most noble draconic bloodlines. Her parents wield their ancestry like a crown, sneering at Bron’s “mud-born” scales. Yet Bron quietly holds to the belief that his people’s blood is just as old, just as sacred—older, even, than the dragons themselves. He doesn’t flaunt it, but deep down he dreams of standing in those ruins, fossilized giants at his back, and declaring to her family: _“See. We were kings of the earth before your kind learned to crawl.”_
 
-### **The Song of the First Scales
+### **The Song of the First Scales**
 
 _Common:_
 
@@ -84,7 +84,10 @@ _Common:_
     
 - **Triangular Markings:** Above and below the spiral are **triangular glyphs**, each representing one of the four elements—earth, fire, water, and air. These mark the primal forces at play in the world when the first scales were shed and are a reminder of the ancient lizardfolk’s bond with nature.
     
-![image](Sigil of the First Scales.svg)
+![image](Party/Sigil of the First Scales.svg)
+![image](Party/Sigil of the First Scales.png)
+![image](Sigil of the First Scales.png)
+
 ---
 
 **Representation**
