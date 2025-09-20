@@ -4,29 +4,7 @@
     "/templates"
   ],
   "nav": {
-    "logo": "logo.jpeg",
-    "title": "My Digital Garden",
-    "links": [
-      {
-        "href": "/blog",
-        "name": "Blog"
-      },
-      {
-        "href": "/about",
-        "name": "About"
-      }
-    ],
-    "social": [
-      {
-        "label": "github",
-        "name": "GitHub Profile",
-        "href": "https://github.com/marie-daake"
-      },
-      {
-        "label": "twitter",
-        "name": "Follow me on Twitter",
-        "href": "https://twitter.com/yourusername"
-      }
-    ]
+    "logo": "DoS.png",
+    "title": "Dimensions of Sentera; Map Notes",
   }
 }
