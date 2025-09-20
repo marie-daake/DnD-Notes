@@ -3,10 +3,10 @@
 
   "contentExclude": {
     "/templates",
-
+}
   "nav": {
     "logo": "DoS.png",
     "title": "Dimensions of Sentera: Game Notes"
-    }
+    
   }
 }
