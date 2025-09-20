@@ -120,11 +120,11 @@
 	* [[🍃 Vyracoria Ildil|Vyra]] got, instead, a [[🥚 Silver Dragon Egg|Silver dragon egg]] (living)
 
 
-## September 20, 2025 - {{start time}} → {{end time}}
+## September 20, 2025 - 19.15 → 
 #### {{session name}}
 ### Attendees
 
-[[⚔️ Bron Skygrass|Bron]], [[🍃 Vyracoria Ildil|Vyra]]
+[[⚔️ Bron Skygrass|Bron]], [[🍃 Vyracoria Ildil|Vyra]] [[🛡️ Vergil|Vergil]][[🗝️ Luna|Luna]][[✚ Rya|Rya]]
 
 ### Notes from the session
 	+
