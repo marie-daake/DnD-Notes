@@ -2,10 +2,17 @@
 ## World info
  - [[✧ Spark]]
  - [[🎉Rift of magic]]
+ - [[💸nepo money]]
+ - [[🧟 Tail-rot]]
+
 
 ## Spell Info
 + [[😵Blinding Smite]]
 + [[✨Spark Jump]]
++ [[❄️ chromatic seal; winter]]
+
 
 ## Other / Game info
-[[Bonus Action]]
++ [[Bonus Action]]
++ [[🧪 unstable potions]]
+
