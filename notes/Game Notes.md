@@ -7,7 +7,7 @@
 ### Notes from session
 + Party met up at a tavern with 2 new members ([[⚔️ Bron Skygrass|Bron]] and [[🍃 Vyracoria Ildil|Vyra]])
 + Party gathered around planes-walker who teleported them to a different plane (where the dragonborn are from)
-	+ [[🧙 Myrkan|Myrkan]]'s home town. 
+	+ [[🧙 Myrkan|Myrkan]]'s home town, Thunderpeak
 		+ his father, [[👨‍💼 Varon|Varon]], has a compound here
 + Rya went to the temple directly
 	+ learned of the [[🩸 Ripper|Ripper]].
@@ -171,7 +171,7 @@
 + At the tavern, [[🧙 Myrkan|Myrkan]] lost 6 gold gambling (did win 40 at one point).
 	+ was dragged away from the table by [[✚ Rya|Rya]], [[🗝️ Luna|Luna]], [[⚔️ Bron Skygrass|Bron]], and [[👁️ One eye|Oneeye]]
 	+ won it back
-	+ brought [[black goop]]
+	+ brought [[🌢black goop]]
 		+ every magic class included when detect magic was used
 		+ from [[🦇 Ringmaster|Ringmaster]] warehouse
 + Apothecary trip
@@ -189,4 +189,44 @@
 	+ [[✚ Rya|Rya]] attempts to pour it on [[🧙 Myrkan|Myrkan]]
 		+ Initially it missed.
 		+ It tries to go after [[🧙 Myrkan|Myrkan]] anyway.
-		+ 
+			+ [[🧙 Myrkan|Myrkan]] tries to eldritch blast it.
+			+ The goop split into 3 pieces. 
+				+ attached onto [[🧙 Myrkan|Myrkan]]’s leg
+					+ scales on leg to the hip turned black
+				+ [[✚ Rya|Rya]] casts holy flame on leg
+					+ done damage
+				+ [[✚ Rya|Rya]] casts cure wounds
+					+ doesn’t do anything
++ [[🍃 Vyracoria Ildil|Vyra]] suggested waiting till we go to the [[🦇 Ringmaster|Ringmaster]], rather than doing more damage
++ [[🧙 Myrkan|Myrkan]] bought an alchemy pouch for the rest of the [[🌢black goop|black goop]]
+### next morning
++ [[🧙 Myrkan|Myrkan]]’s arm is also covered.
+	+ a vial was smashed over night. 
++ [[🧙 Myrkan|Myrkan]] picked up his armor
++ Must go beyond the last city.
+### Velmara
++ most of a day’s travel
++ Giant glass dome coming out of the mountain
++ Only place to get skyglass
++ stepped terraces and glass observatories.
++ mechanism in town
+	+ bright currently
+		+ perhaps making skyglass
++ sun at 45° angle
+	+ can only make skyglass 2 times a day
+	+ must be at the right angle.
++ Party takes a rest at a tavern
++ Argument in a raised garden
+	+ first person claims the other person slept with their daughter
+	+ [[✚ Rya|Rya]] asks what the commotion is.
+	+ [[🍃 Vyracoria Ildil|Vyra]] stopped by a knight of her family.
+		+ Told I have unfinished business
+			+ ex-fiancé (forced)
++ Taken to the family estate. 
+	+ Argument with family and ex
+		+ Family considers all other species to be ‘lesser’.
+			+ could not accept [[⚔️ Bron Skygrass|Bron]] as a husband
+	+ Ex-fiancé believed that [[🍃 Vyracoria Ildil|Vyra]] didn’t get a choice in the marriage
+		+ Accepted and was unhappy with [[🍃 Vyracoria Ildil|Vyra]]’s parents
+	+ [[🍃 Vyracoria Ildil|Vyra]] Disowned 
+> 		+ “Come, let us wash the dust of this place from our feet”.
