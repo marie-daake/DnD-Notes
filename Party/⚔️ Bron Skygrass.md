@@ -84,7 +84,7 @@ _Common:_
     
 - **Triangular Markings:** Above and below the spiral are **triangular glyphs**, each representing one of the four elements—earth, fire, water, and air. These mark the primal forces at play in the world when the first scales were shed and are a reminder of the ancient lizardfolk’s bond with nature.
     
-![image](Party/Sigil of the First Scales.svg)
+![image](Sigil_of_the_First_Scales.svg)
 
 ---
 
