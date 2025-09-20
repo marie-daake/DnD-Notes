@@ -2,7 +2,7 @@
   "showSidebar": true
 }
   "contentExclude": [
-    "/templates",]
+    "/templates"],
 }
 {
   "nav": {
