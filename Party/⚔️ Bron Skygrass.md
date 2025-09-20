@@ -13,6 +13,11 @@ Background: [Archaeologist](https://dnd5e.wikidot.com/background:archaeologist)<
 	* dispel magic darts
 * Has the [[✧ Spark]] after being teleported by a plains-walker
 	* [[✨Spark Jump]] was learned after touching a rift
+
+## Backstory
+
+
+
 ## Image:
 
 ![image](Bron.png)
