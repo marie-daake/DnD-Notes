@@ -9,5 +9,5 @@ Class: Warlock<br/>
 ### Aliases
 + Nepo Baby
 ## Notes:
-+ Father called [[👨‍💼 Varon]]
++ Father called [[👨‍💼 Vaerion]]
 + 
