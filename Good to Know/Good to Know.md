@@ -1,6 +1,4 @@
----
-showSidebar: false
----
+
 # 📖 Good to Know
 
 - [[🧿Awakened]]
