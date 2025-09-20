@@ -121,7 +121,7 @@
 
 
 ## September 20, 2025 - 19.15 → 
-#### {{session name}}
+#### ,,,
 ### Attendees
 
 [[⚔️ Bron Skygrass|Bron]], [[🍃 Vyracoria Ildil|Vyra]] [[🛡️ Vergil|Vergil]][[🗝️ Luna|Luna]][[✚ Rya|Rya]]
