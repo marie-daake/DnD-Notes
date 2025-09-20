@@ -32,13 +32,9 @@
       {
         "label": "github",
         "name": "GitHub Profile",
-        "href": "https://github.com/marie-daake"
-      },
-      {
-        "label": "twitter",
-        "name": "Follow me on Twitter",
-        "href": "https://twitter.com/yourusername"
+        "href": "https://github.com/marie-daake/DnD-Notes"
       }
+     
     ]
   }
 }
