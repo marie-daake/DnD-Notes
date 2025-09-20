@@ -5,7 +5,7 @@
 - [[💰 Reward]]s we've gotten
 
 ## Allies
-+ [[👨‍💼 Varon]]
++ [[👨‍💼 Vaerion]]
 
 ## Enemies
 - [[🦦 Awakened Otter]]
