@@ -83,7 +83,7 @@
 #### One-shot "dream"
 ### Attendees
 
-[[🧙 Myrkan|Myrkan]], [[⚔️ Bron Skygrass|Bron]], [[🗡️ Dante|Dante]], [[🍃 Vyracoria Ildil|Vyra]], [[👁️ One eye|Oneeye]],  [[🗝️ Luna|Luna]] 
+[[🧙 Myrkan|Myrkan]], [[⚔️ Bron Skygrass|Bron]], [[🗡️ Dante|Dante]], [[🍃 Vyracoria Ildil|Vyra]], [[👁️ One eye|Oneeye]],  [[🗝️ Luna|Luna]] <br/>
 + [[✚ Rya|Rya]] couldn't play due to location, [[🗝️ Luna|Luna]] left early.
 
 ### Notes from the session
@@ -126,8 +126,8 @@
 #### Shopping! Also Gambling.
 ### Attendees
 
-[[⚔️ Bron Skygrass|Bron]], [[🍃 Vyracoria Ildil|Vyra]] [[🛡️ Vergil|Vergil]][[🗝️ Luna|Luna]][[🧙 Myrkan|Myrkan]][[🗡️ Dante|Dante]]
-[[✚ Rya|Rya]] left early
+[[⚔️ Bron Skygrass|Bron]], [[🍃 Vyracoria Ildil|Vyra]] [[🛡️ Vergil|Vergil]][[🗝️ Luna|Luna]][[🧙 Myrkan|Myrkan]][[🗡️ Dante|Dante]] <br/>
+[[✚ Rya|Rya]] left early,  came back
 
 ### Notes from the session
 + reviewed [[Game Notes#Ringmaster, Otter, and the unnecessary battle”|Last Session]]
