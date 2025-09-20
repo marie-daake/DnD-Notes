@@ -1,4 +1,4 @@
-# 📒 Game Notes
+# Game Notes
 ## Aug 23, 2025 19.00 - 22.00
 #### Jumping Plains
 ### Attendees
