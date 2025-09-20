@@ -1,10 +1,29 @@
 {
+  "showSidebar": true
+}
+{  "contentExclude": [
+    "/templates"],
+}
+{
   "showSidebar": true,
   "contentExclude": [
     "/templates"
   ],
   "nav": {
-    "logo": "DoS.png",
-    "title": "Dimensions of Sentera; Map Notes",
+    "logo": "logo.jpeg",
+    "title": "My Digital Garden",
+@@ -22,13 +20,13 @@
+      {
+        "label": "github",
+        "name": "GitHub Profile",
+        "href": "https://github.com/yourusername"
+        "href": "https://github.com/marie-daake"
+      },
+      {
+        "label": "twitter",
+        "name": "Follow me on Twitter",
+        "href": "https://twitter.com/yourusername"
+      }
+    ]
   }
 }
