@@ -1,3 +1,7 @@
+---
+aliases:
+  - black goop
+---
 + good news: 
 	+ left ability to detach and un-convert
 	+ no bad intentions
