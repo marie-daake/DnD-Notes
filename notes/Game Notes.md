@@ -14,10 +14,10 @@
 + [[🍃 Vyracoria Ildil|Vyra]] bought a cloak to hide herself, as she was not well liked by her family.
 + All convened at the compound, where [[🧙 Myrkan|Myrkan]] had to vouch for the party.
 	+ [[👁️ One eye|Oneeye]] attempted to go into the compound without permission. Had to be restrained until his giant size was removed.
-+ Were asked to wait before entering [[👨‍💼 Vaerion|Varon]]'s office. 
++ Were asked to wait before entering [[👨‍💼 Vaerion|Vaerion]]'s office. 
 	+ [[🍃 Vyracoria Ildil|Vyra]] felt like she had to look after [[🛡️ Vergil|Vergil]], gaining him the nickname [[🛡️ Vergil|puppy]]
 		+ tried to see if he would play fetch with some copper coins.
-+ [[👨‍💼 Vaerion|Varon]] asked the party to try and find the [[🩸 Ripper|Ripper]], as it was killing citizens.
++ [[👨‍💼 Vaerion|Vaerion]] asked the party to try and find the [[🩸 Ripper|Ripper]], as it was killing citizens.
 	+ gave 2 gauntlets that shoot dispel magic darts,
 + Party had to wait till nightfall.
 	+ started to explore town.
@@ -67,8 +67,8 @@
 		* requires beasts to 'stick'.
 		* needs people to test the drug.
 	* Wants to charge (up to) 1gp to 'cure' people of [[🧟 Tail-rot|Tail-rot]].
-		* If [[👨‍💼 Vaerion|Varon]]charges that more, she’ll sell it  herself.
-* [[👨‍💼 Vaerion|Varon]] Making deals with ringmaster about skyglass
+		* If [[👨‍💼 Vaerion|Vaerion]] charges that more, she’ll sell it  herself.
+* [[👨‍💼 Vaerion|Vaerion]] Making deals with ringmaster about skyglass
 * [[🍃 Vyracoria Ildil|Vyra]] questioned the availability of a medicine price wise
 * [[✚ Rya|Rya]] attacked the [[🦦 Awakened Otter|Awakened Otter]]
 * [[🦇 Ringmaster|Ringmaster]] offered cursed armor to [[⚔️ Bron Skygrass|Bron]], who denied
@@ -123,7 +123,7 @@
 
 
 ## September 20, 2025 - 19.15 → 00.19
-#### Shopping! Also Gambling.
+#### Shopping! Also Gambling. Airing Vyra’s past. Travel
 ### Attendees
 
 [[⚔️ Bron Skygrass|Bron]], [[🍃 Vyracoria Ildil|Vyra]], [[🛡️ Vergil|Vergil]], [[🗝️ Luna|Luna]], [[🧙 Myrkan|Myrkan]], [[🗡️ Dante|Dante]], [[✚ Rya|Rya]] <br/>
