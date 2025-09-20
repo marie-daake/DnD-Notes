@@ -1,7 +1,8 @@
 {
   "showSidebar": true
-}
+
   "contentExclude": [
     "/templates",
 
   ]
+}
