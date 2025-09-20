@@ -126,7 +126,7 @@
 #### Shopping! Also Gambling.
 ### Attendees
 
-[[⚔️ Bron Skygrass|Bron]], [[🍃 Vyracoria Ildil|Vyra]] [[🛡️ Vergil|Vergil]][[🗝️ Luna|Luna]][[🧙 Myrkan|Myrkan]][[🗡️ Dante|Dante]] <br/>
+[[⚔️ Bron Skygrass|Bron]], [[🍃 Vyracoria Ildil|Vyra]], [[🛡️ Vergil|Vergil]], [[🗝️ Luna|Luna]], [[🧙 Myrkan|Myrkan]], [[🗡️ Dante|Dante]], [[✚ Rya|Rya]] <br/>
 [[✚ Rya|Rya]] left early,  came back
 
 ### Notes from the session
