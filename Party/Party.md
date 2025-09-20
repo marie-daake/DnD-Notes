@@ -1,3 +1,6 @@
+---
+showSidebar: false
+---
 #  👤 Party Quick Overview
  - [[⚔️ Bron Skygrass|⚔️ Bron]] - Lizard folk Fighter
  - [[🗡️ Dante]] - Air Genasi Rogue
