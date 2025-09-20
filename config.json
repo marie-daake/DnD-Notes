@@ -8,20 +8,24 @@
     "title": "Dimensions of Sentera; Game Notes",
     "links": [
       {
-        "href": "readme.md",
+        "href": "/",
         "name": "About"
       },
       {
-        "href": "/Good to Know",
+        "href": "/Good to Know/Good to Know.md",
         "name": "Good to Know"
       },
       {
-        "href": "/Misc Info",
+        "href": "/Misc Info/Misc Info.md",
         "name": "Misc Info"
       },
       {
         "href": "/notes/Game Notes",
         "name": "Game Notes"
+      },
+      {
+        "href": "/Party/Party.md",
+        "name": "Party"
       }
     ],
     "social": [
