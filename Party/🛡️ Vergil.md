@@ -6,5 +6,8 @@ aliases:
 
 class: Fighter / Barbarian <br/>
 species: Eladin <br/>
+
+#### Aliases
++ Puppy
 ## notes:
 
