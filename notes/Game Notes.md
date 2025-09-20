@@ -2,17 +2,17 @@
 ## Aug 23, 2025 19.00 - 22.00
 #### Jumping Plains
 ### Attendees
-[[⚔️ Bron Skygrass|Bron]], [[🍃 Vyracoria Ildil|Vyra]], [[✚ Rya|Rya]], [[❓ Myrkan|Myrkan]] 
+[[⚔️ Bron Skygrass|Bron]], [[🍃 Vyracoria Ildil|Vyra]], [[✚ Rya|Rya]], [[🧙 Myrkan|Myrkan]]
 
 ### Notes from session
 + Party met up at a tavern with 2 new members ([[⚔️ Bron Skygrass|Bron]] and [[🍃 Vyracoria Ildil|Vyra]])
 + Party gathered around planes-walker who teleported them to a different plane (where the dragonborn are from)
-	+ [[❓ Myrkan|Myrkan]]'s home town. 
+	+ [[🧙 Myrkan|Myrkan]]'s home town. 
 		+ his father, [[👨‍💼 Varon|Varon]], has a compound here
 + Rya went to the temple directly
 	+ learned of the [[🩸 Ripper|Ripper]].
 + [[🍃 Vyracoria Ildil|Vyra]] bought a cloak to hide herself, as she was not well liked by her family.
-+ All convened at the compound, where [[❓ Myrkan|Myrkan]] had to vouch for the party.
++ All convened at the compound, where [[🧙 Myrkan|Myrkan]] had to vouch for the party.
 	+ [[👁️ One eye|Oneeye]] attempted to go into the compound without permission. Had to be restrained until his giant size was removed.
 + Were asked to wait before entering [[👨‍💼 Varon|Varon]]'s office. 
 	+ [[🍃 Vyracoria Ildil|Vyra]] felt like she had to look after [[🛡️ Vergil|Vergil]], gaining him the nickname [[🛡️ Vergil|puppy]]
@@ -49,7 +49,7 @@
 #### Ringmaster, Otter, and the unnecessary battle.
 ### Attendees
 
-[[❓ Myrkan|Myrkan]], [[⚔️ Bron Skygrass|Bron]], [[🗡️ Dante|Dante]], [[🍃 Vyracoria Ildil|Vyra]], [[✚ Rya|Rya]], [[👁️ One eye|Oneeye]]
+[[🧙 Myrkan|Myrkan]], [[⚔️ Bron Skygrass|Bron]], [[🗡️ Dante|Dante]], [[🍃 Vyracoria Ildil|Vyra]], [[✚ Rya|Rya]], [[👁️ One eye|Oneeye]]
 
 ### Notes from the session
 
@@ -63,25 +63,27 @@
 		* the city killed an innocent man
 		* someone stole one of her experiments
 	* [[🧿Awakened|Awakened]] experiment doesn't work on humanoids
+		* “[[🧿Awakened|Project Magnitude]]”
 		* requires beasts to 'stick'.
-	* Wants to charge (up to) 1gp to 'cure' people of [[🧟 Tail-rot]].
 		* needs people to test the drug.
+	* Wants to charge (up to) 1gp to 'cure' people of [[🧟 Tail-rot|Tail-rot]].
+		* If [[👨‍💼 Varon|Varon]]charges that more, she’ll sell it  herself.
 * [[👨‍💼 Varon|Varon]] Making deals with ringmaster about skyglass
 * [[🍃 Vyracoria Ildil|Vyra]] questioned the availability of a medicine price wise
 * [[✚ Rya|Rya]] attacked the [[🦦 Awakened Otter|Awakened Otter]]
 * [[🦇 Ringmaster|Ringmaster]] offered cursed armor to [[⚔️ Bron Skygrass|Bron]], who denied
 	* answered a lot of questions about the armor
 * [[🦇 Ringmaster|Ringmaster]] disappeared
-	* lightning hit (inside) after a snark remark followed her leaving
+	* lightning hit [[👁️ One eye|Oneeye]] after a snark remark followed her leaving
 * [[💰 Reward|Reward]]
 	* 50g/ea to those present
-		* 150g to [[❓ Myrkan|Myrkan]]
+		* 150g to [[🧙 Myrkan|Myrkan]] due to nepotism.
 
 ## September 13, 2025 - 20.00 → 23:14
 #### One-shot "dream"
 ### Attendees
 
-[[❓ Myrkan|Myrkan]], [[⚔️ Bron Skygrass|Bron]], [[🗡️ Dante|Dante]], [[🍃 Vyracoria Ildil|Vyra]], [[👁️ One eye|Oneeye]],  [[🗝️ Luna|Luna]] 
+[[🧙 Myrkan|Myrkan]], [[⚔️ Bron Skygrass|Bron]], [[🗡️ Dante|Dante]], [[🍃 Vyracoria Ildil|Vyra]], [[👁️ One eye|Oneeye]],  [[🗝️ Luna|Luna]] 
 + [[✚ Rya|Rya]] couldn't play due to location, [[🗝️ Luna|Luna]] left early.
 
 ### Notes from the session
@@ -121,10 +123,70 @@
 
 
 ## September 20, 2025 - 19.15 → 
-#### ,,,
+#### Shopping! Also Gambling.
 ### Attendees
 
-[[⚔️ Bron Skygrass|Bron]], [[🍃 Vyracoria Ildil|Vyra]] [[🛡️ Vergil|Vergil]][[🗝️ Luna|Luna]][[✚ Rya|Rya]]
+[[⚔️ Bron Skygrass|Bron]], [[🍃 Vyracoria Ildil|Vyra]] [[🛡️ Vergil|Vergil]][[🗝️ Luna|Luna]][[🧙 Myrkan|Myrkan]][[🗡️ Dante|Dante]]
+[[✚ Rya|Rya]] left early
 
 ### Notes from the session
-	+
++ reviewed [[Game Notes#Ringmaster, Otter, and the unnecessary battle”|Last Session]]
++ [[🧙 Myrkan|Myrkan]] now needs to refer to [[👨‍💻 Rusty|Rusty]] as his god
++ “Fuzzy Air” left after [[🦇 Ringmaster|Ringmaster]] left. 
+	+ gives headache if around it too long.
++ [[🧙 Myrkan|Myrkan]] Took sweets and poppy seeds
++ Party goes to a smith/armorer
+	+ [[🧙 Myrkan|Myrkan]] inquires about Light Armor
+		+ Smith has a brigandine.
+	+ [[🍃 Vyracoria Ildil|Vyra]] asked about a container to hold the [[🥚 Silver Dragon Egg|Silver dragon egg]]
+		+ Must get a basket, wool, and get it enchanted, then the armorer can reinforce it.
+	+ [[🛡️ Vergil|Vergil]] asked about armor
+		+ Bought a set of armor
+		+ asked about an iron rod. was denied
+	+ [[👁️ One eye|Oneeye]] asked if they had anything for sorcerers, 
+		+ was told to go to the enchanter.
++ [[🗝️ Luna|Luna]] headed to a general store for rations 
++ [[🍃 Vyracoria Ildil|Vyra]] stopped on the way to the enchanter get the basket and wool
+	+ human at loom
+	+ firbolg at weaver
++ On to the enchanter!
+	+ Outside normal building, Inside a living tree-stump.
+		+ Ancient, Spring dryad.
+	+ [[🧙 Myrkan|Myrkan]] asked about enchanted armor
+		+ they’re EXPENSIVE
+			+ 2000 paid for in “[[💸nepo money|Nepo Money]]”
+	+ [[👁️ One eye|Oneeye]] asked about ring of protection
+		+ [[🧙 Myrkan|Myrkan]]loans money to [[👁️ One eye|Oneeye]]
+			+ *It is hereby acknowledged and agreed that the individual denominated as [[🧙 Myrkan|Myrkan]]shall provide, of his own volition and without expectation of reimbursement, the sum of seventy (70) gold pieces toward the purchase of the item known as a "Ring of Protection" on behalf of the individual denominated as [[👁️ One eye|Oneeye]]*
+			  
+			  *[[👁️ One eye|Oneeye]] shall incur no debt, liability, or obligation, whether contractual, equitable, or otherwise, to [[🧙 Myrkan|Myrkan]] in respect of said sum.*  
+	+ [[🍃 Vyracoria Ildil|Vyra]] had to run to a stash to get more funds.
+		+ [[❄️ chromatic seal; winter]]
+	+ [[🛡️ Vergil|Puppy]] asked about scrolls
+		+ mostly druidic spells
+		+ purchased Healing Word
+		+ asked how the magical moss works
++ [[⚔️ Bron Skygrass|Bron]] Stopped by an apothecary and picked up 2 [[🧪 unstable potions]]
++ [[🍃 Vyracoria Ildil|Vyra]] went back to the the Smith and got armor put on the basket
++ At the tavern, [[🧙 Myrkan|Myrkan]] lost 6 gold gambling (did win 40 at one point).
+	+ was dragged away from the table by [[✚ Rya|Rya]], [[🗝️ Luna|Luna]], [[⚔️ Bron Skygrass|Bron]], and [[👁️ One eye|Oneeye]]
+	+ won it back
+	+ brought [[black goop]]
+		+ every magic class included when detect magic was used
+		+ from [[🦇 Ringmaster|Ringmaster]] warehouse
++ Apothecary trip
+	+ small gnome
+	+ [[🧙 Myrkan|Myrkan]] was chastised for not having the vials in a proper bag
+	+ gnome put the vial in a machine
+		+ starts to hum and violently shake
+	+ good news: 
+		+ left ability to detach and un-convert
+		+ no bad intentions
+	+ bad news:
+		+ meant to cling to and convert living matter into zombie
+	+ interesting news: 
+		+ Divine origin magic
+	+ [[✚ Rya|Rya]] attempts to pour it on [[🧙 Myrkan|Myrkan]]
+		+ Initially it missed.
+		+ It tries to go after [[🧙 Myrkan|Myrkan]] anyway.
+		+ 
