@@ -11,7 +11,8 @@ species: [Dragonborn](https://roll20.net/compendium/dnd5e/Dragonborn#content) <b
 * Married to [[⚔️ Bron Skygrass|Bron]]
 * [Noble](https://roll20.net/compendium/dnd5e/Noble#content)
 * Got [[�Blinding Smite]] from the rift
-- [[🥚 Silver Dragon Egg|Silver dragon egg]] - received after the dream sequence [[Game Notes#One-shot "dream"|One Shot]])
+- [[🥚 Silver Dragon Egg|Silver dragon egg]] - received after the dream sequence [[Game Notes#One-shot "dream"|One Shot]]
+- Hometown of [[Game Notes#Velmara|Velmara]]
 #### Aliases
 + Vyra
 ## Image:
