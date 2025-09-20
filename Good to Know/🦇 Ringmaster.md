@@ -12,5 +12,5 @@ aliases:
 	* someone stole one of her experiments
 * [[🧿Awakened]] experiment doesn't work on humanoids
 	* requires beasts to 'stick'.
-* Wants to charge (up to) 1gp to 'cure' people of [[🧟 Tail-rot]].
+* Wants to charge (up to) 1gp to 'cure' people of [[🧟 Tail-rot|Tail-rot]].
 	* needs people to test the drug.
