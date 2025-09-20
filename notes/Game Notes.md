@@ -8,16 +8,16 @@
 + Party met up at a tavern with 2 new members ([[⚔️ Bron Skygrass|Bron]] and [[🍃 Vyracoria Ildil|Vyra]])
 + Party gathered around planes-walker who teleported them to a different plane (where the dragonborn are from)
 	+ [[🧙 Myrkan|Myrkan]]'s home town, Thunderpeak
-		+ his father, [[👨‍💼 Varon|Varon]], has a compound here
+		+ his father, [[👨‍💼 Vaerion|Varon]], has a compound here
 + Rya went to the temple directly
 	+ learned of the [[🩸 Ripper|Ripper]].
 + [[🍃 Vyracoria Ildil|Vyra]] bought a cloak to hide herself, as she was not well liked by her family.
 + All convened at the compound, where [[🧙 Myrkan|Myrkan]] had to vouch for the party.
 	+ [[👁️ One eye|Oneeye]] attempted to go into the compound without permission. Had to be restrained until his giant size was removed.
-+ Were asked to wait before entering [[👨‍💼 Varon|Varon]]'s office. 
++ Were asked to wait before entering [[👨‍💼 Vaerion|Varon]]'s office. 
 	+ [[🍃 Vyracoria Ildil|Vyra]] felt like she had to look after [[🛡️ Vergil|Vergil]], gaining him the nickname [[🛡️ Vergil|puppy]]
 		+ tried to see if he would play fetch with some copper coins.
-+ [[👨‍💼 Varon|Varon]] asked the party to try and find the [[🩸 Ripper|Ripper]], as it was killing citizens.
++ [[👨‍💼 Vaerion|Varon]] asked the party to try and find the [[🩸 Ripper|Ripper]], as it was killing citizens.
 	+ gave 2 gauntlets that shoot dispel magic darts,
 + Party had to wait till nightfall.
 	+ started to explore town.
@@ -67,8 +67,8 @@
 		* requires beasts to 'stick'.
 		* needs people to test the drug.
 	* Wants to charge (up to) 1gp to 'cure' people of [[🧟 Tail-rot|Tail-rot]].
-		* If [[👨‍💼 Varon|Varon]]charges that more, she’ll sell it  herself.
-* [[👨‍💼 Varon|Varon]] Making deals with ringmaster about skyglass
+		* If [[👨‍💼 Vaerion|Varon]]charges that more, she’ll sell it  herself.
+* [[👨‍💼 Vaerion|Varon]] Making deals with ringmaster about skyglass
 * [[🍃 Vyracoria Ildil|Vyra]] questioned the availability of a medicine price wise
 * [[✚ Rya|Rya]] attacked the [[🦦 Awakened Otter|Awakened Otter]]
 * [[🦇 Ringmaster|Ringmaster]] offered cursed armor to [[⚔️ Bron Skygrass|Bron]], who denied
@@ -157,7 +157,7 @@
 			+ 2000 paid for in “[[💸nepo money|Nepo Money]]”
 	+ [[👁️ One eye|Oneeye]] asked about ring of protection
 		+ [[🧙 Myrkan|Myrkan]]loans money to [[👁️ One eye|Oneeye]]
-			+ *It is hereby acknowledged and agreed that the individual denominated as [[🧙 Myrkan|Myrkan]]shall provide, of his own volition and without expectation of reimbursement, the sum of seventy (70) gold pieces toward the purchase of the item known as a "Ring of Protection" on behalf of the individual denominated as [[👁️ One eye|Oneeye]]*
+			+ *It is hereby acknowledged and agreed that the individual denominated as [[🧙 Myrkan|Myrkan]] shall provide, of his own volition and without expectation of reimbursement, the sum of seventy (70) gold pieces toward the purchase of the item known as a "Ring of Protection" on behalf of the individual denominated as [[👁️ One eye|Oneeye]]*
 			  
 			  *[[👁️ One eye|Oneeye]] shall incur no debt, liability, or obligation, whether contractual, equitable, or otherwise, to [[🧙 Myrkan|Myrkan]] in respect of said sum.*  
 	+ [[🍃 Vyracoria Ildil|Vyra]] had to run to a stash to get more funds.
@@ -229,7 +229,7 @@
 	+ Ex-fiancé believed that [[🍃 Vyracoria Ildil|Vyra]] didn’t get a choice in the marriage
 		+ Accepted and was unhappy with [[🍃 Vyracoria Ildil|Vyra]]’s parents
 	+ [[🍃 Vyracoria Ildil|Vyra]] Disowned 
-> 		+ “Come, let us wash the dust of this place from our feet”.
+> 		+  “Come, let us wash the dust of this place from our feet”.
 + Travelled on
 	+ Traveling merchant
 		+ [[✚ Rya|Rya]] wants a rope-dagger
