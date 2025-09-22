@@ -1,7 +1,7 @@
 {
 	"showEditLink": true,
 	"showSidebar": true,
-	contentExclude": [
+	"contentExclude": [
 		"/templates"
     ],
 	"nav": {
