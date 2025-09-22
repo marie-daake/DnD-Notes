@@ -20,7 +20,7 @@ Bron Skygrass was hatched under the sweltering sun of the marshes, where instinc
 
 Unlike the stoic hunters of his tribe, Bron became a collector of fragments: carved stones, broken pottery, and especially bones of beasts long dead. He left his swamp, driven by the belief that his people were not simply scavengers of the present but heirs to something far greater. In his travels, he took on the skills of a fighter, for relics are rarely left unguarded—whether by monsters, traps, or jealous rivals. His champion’s path reflects his devotion to pushing the limits of his physical self, striving to become worthy of the titans he idolizes.
 
-It was during one such expedition that he met **Vyracoria Ildil**, a dragonborn noble and druid of the Circle of the Moon. Where Bron sought bones, she sought the living spirit of nature. Their work often put them in opposition at first—she viewed his digging as desecration, while he considered her reverence naive. But mutual respect grew from their debates. Vyracoria saw his strength tempered by curiosity and care, rare traits in a world that dismissed lizardfolk as little more than beasts. Bron, in turn, found in her a companion who valued the world’s mysteries as much as he did, even if they approached them differently.
+It was during one such expedition that he met **Vyracoria Ildil**, a dragonborn noble and druid of the Circle of the Moon. Where Bron sought bones, she sought the living spirit of nature. Their work often put them in opposition at first—she viewed his digging as desecration, while he considered her reverence naïve. But mutual respect grew from their debates. Vyracoria saw his strength tempered by curiosity and care, rare traits in a world that dismissed lizardfolk as little more than beasts. Bron, in turn, found in her a companion who valued the world’s mysteries as much as he did, even if they approached them differently.
 
 Their marriage shocked her family. The Ildils, proud and aristocratic, believed lizardfolk to be little more than swamp-dwellers unfit to mingle with nobility. They call Bron a “lesser being,” sneering at his manners, his speech, and his lack of draconic bloodline. Bron endures this disdain with a cold patience typical of his kind—yet beneath that stoic mask lies a burning resolve to **prove himself not just worthy of Vyracoria, but of the legacy of his people.**
 
@@ -84,7 +84,7 @@ _Common:_
     
 - **Triangular Markings:** Above and below the spiral are **triangular glyphs**, each representing one of the four elements—earth, fire, water, and air. These mark the primal forces at play in the world when the first scales were shed and are a reminder of the ancient lizardfolk’s bond with nature.
     
-![image](Sigil_of_the_First_Scales.svg)
+![image](Party/Sigil of the First Scales.svg)
 
 ---
 
