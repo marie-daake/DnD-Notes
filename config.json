@@ -1,4 +1,5 @@
 {
+  "showEditLink": true
   "showSidebar": true,
   "contentExclude": [
     "/templates"
@@ -36,6 +37,4 @@
       } 
     ]
   }
-   "showEditLink": true
-  
 }
