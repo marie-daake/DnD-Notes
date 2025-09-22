@@ -2,7 +2,7 @@
   "showSidebar": true,
   "contentExclude": [
     "/templates"
-  ],
+      ],
   "nav": {
     "logo": "DoS.png",
     "title": "Dimensions of Sentera; Game Notes",
@@ -35,5 +35,8 @@
         "href": "https://github.com/marie-daake/DnD-Notes"
       } 
     ]
+  }
+  {
+  "showEditLink": true
   }
 }
