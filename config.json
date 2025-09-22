@@ -1,40 +1,40 @@
 {
-  "showEditLink": true
-  "showSidebar": true,
-  "contentExclude": [
-    "/templates"
-      ],
-  "nav": {
-    "logo": "DoS.png",
-    "title": "Dimensions of Sentera; Game Notes",
-    "links": [
-      {
-        "href": "/",
-        "name": "About"
-      },
-      {
-        "href": "/Good to Know/Good to Know.md",
-        "name": "Good to Know"
-      },
-      {
-        "href": "/Misc Info/Misc Info.md",
-        "name": "Misc Info"
-      },
-      {
-        "href": "/notes/Game Notes",
-        "name": "Game Notes"
-      },
-      {
-        "href": "/Party/Party.md",
-        "name": "Party"
-      }
+	"showEditLink": true,
+	"showSidebar": true,
+	contentExclude": [
+		"/templates"
     ],
-    "social": [
-      {
-        "label": "github",
-        "name": "GitHub Profile",
-        "href": "https://github.com/marie-daake/DnD-Notes"
-      } 
-    ]
-  }
+	"nav": {
+		"logo": "DoS.png",
+		"title": "Dimensions of Sentera; Game Notes",
+		"links": [
+			{
+			"href": "/",
+			"name": "About"
+			},
+			{
+			"href": "/Good to Know/Good to Know.md",
+			"name": "Good to Know"
+			},
+			{
+			"href": "/Misc Info/Misc Info.md",
+			"name": "Misc Info"
+			},
+			{
+			"href": "/notes/Game Notes",
+			"name": "Game Notes"
+			},
+			{
+			"href": "/Party/Party.md",
+			"name": "Party"
+			}
+		],
+		"social": [
+			{
+			"label": "github",
+			"name": "GitHub Profile",
+			"href": "https://github.com/marie-daake/DnD-Notes"
+			} 
+		]
+	}
 }
